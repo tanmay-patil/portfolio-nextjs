@@ -13,8 +13,10 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to{" "}
+          <a href="https://tanmay-patil.vercel.app/">Tanmay's Portfolio</a>
         </h1>
+        <h2>Under construction. Check back soon!</h2>
       </main>
 
       <footer className={styles.footer}>
