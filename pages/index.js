@@ -14,7 +14,9 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to{" "}
-          <a href="https://tanmay-patil.vercel.app/">Tanmay's Portfolio</a>
+          <a href="https://tanmay-patil.vercel.app/">
+            Tanmay`&apos;`s Portfolio
+          </a>
         </h1>
         <h2>Under construction. Check back soon!</h2>
       </main>
